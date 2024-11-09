@@ -1,0 +1,43 @@
+[{"Id": 1,
+"Heroname": "Endeavor",
+"img": "https://external-preview.redd.it/iJbaSxyU7KC6ePjD6f-21hrjrDFfLx8S9YyebFJHX6s.png?auto=webp&s=827d59c06c781ab1887d7cd85f48e70e233c73ad",
+"info": "Endeavor is a Pro Hero and holds the position of the number one hero after All Might's retirement. He is characterized by his intense ambition and determination to surpass All Might. Endeavor is often portrayed as a stern, focused, and ruthless individual, prioritizing results and victory in hero work."
+},
+{
+    "id": 2,
+    "Heroname": "EdgeShot",
+    "img": "https://i.pinimg.com/736x/f0/99/0c/f0990cf94f0ab55e23a19e2d06d1a322.jpg",
+    "info":"Edgeshot has earned the status of a Pro Hero, signifying his accomplishments and contributions to maintaining peace and security in the hero society. He holds a position of respect among both fellow heroes and the public"
+},
+{
+    "id": 3,
+    "Heroname": "Eraserhead",
+    "img":"https://staticg.sportskeeda.com/editor/2022/11/13723-16672894540800-1920.jpg?w=840",
+    "info":"Aizawa is known for his rational and no-nonsense personality. He tends to be stern and strict with his students, aiming to prepare them for the harsh realities of being heroes. Despite his seemingly aloof demeanor, he cares deeply about his students' well-being and growth. Aizawa's Quirk allows him to erase other people's Quirks by making eye contact, making him a formidable and tactical hero. He is in the class of heroes called underground heroes, meaning that he avoids the media at all costs"
+},
+{
+    "id": 4,
+    "Heroname": "Midnight",
+    "img": "https://sportshub.cbsistatic.com/i/2021/04/25/7951582f-88e0-4f7a-8956-51492557a907/my-hero-academia-midnight-cosplay-1262460.jpg",
+    "info": "With her striking and confident demeanor, Midnight has become a symbol of charisma and strength within the hero society. Her presence in the U.A. faculty adds a layer of excitement to the academic environment, creating an atmosphere that fosters both learning and personal growth. It's important to note that Midnight's character is known for breaking stereotypes, challenging expectations, and showcasing that heroes come in various forms, each with their unique strengths and contributions."
+},
+{
+    "id": 5,
+    "Heroname": "Best Jeanist",
+    "img": "https://staticg.sportskeeda.com/editor/2022/06/0bb12-16543839715618-1920.jpg",
+    "info": "Best Jeanist is recognized for his unique and stylish approach to heroism. As a top-ranking hero, he has made significant contributions to the safety and well-being of society. What sets Best Jeanist apart is not only his formidable Quirk but also his keen sense of fashion, making him a trendsetter in the hero community."
+},
+{
+    "id": 6,
+    "Heroname": "Present Mic",
+    "img": "https://cdn.costumewall.com/wp-content/uploads/2019/10/Present-Mic.jpg",
+    "info": "Beyond his combat abilities, Present Mic has become a popular figure in the hero society. As a radio personality, he uses his voice to entertain and inspire the public, creating a positive connection between heroes and citizens. Known for his love of music and pop culture, Present Mic brings a sense of fun and enthusiasm to the hero profession. His engaging presence has made him a beloved figure among both heroes and fans alike."
+},
+{
+    "id": 7,
+    "Heroname": "All Might",
+    "img": "https://www.dexerto.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.dexerto.com/wp-content/uploads/2022/01/13/my-hero-academia-ultra-rumble-battle-royale-release-date-roster-mha-leaks.jpg",
+    "info": "All Might, whose true identity is Toshinori Yagi, stands as a towering figure in the hero society. Renowned for his incredible strength, unwavering sense of justice, and iconic smile, he has become a symbol of hope and inspiration for citizens and heroes alike. Beyond his superhuman feats, All Might's charisma and genuine concern for the well-being of others have made him a beloved figure in the hero community. His actions and words resonate as a testament to the potential for heroism to inspire and uplift society"
+}
+
+]

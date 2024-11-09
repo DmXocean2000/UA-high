@@ -1,0 +1,56 @@
+@import url("bootstrap/dist/css/bootstrap.min.css");
+@import url("bootstrap-icons/font/bootstrap-icons.css");
+
+.navbar-brand{
+    font-size: 30px;
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.jumbotron{
+    background:url(../images/uaHigh.png);
+    background-size: cover;}
+@media (min-width: 576px){.jumbotron{
+    height: 500px;
+    
+    background-position: center ;
+}}
+@media (min-width: 768px){.jumbotron{
+    height: 750px;
+    background-position: center;
+}}
+@media (min-width: 960px ){.jumbotron{
+    
+    background-position: 25 -240px;
+    /*background-position: 0 -500px ;*/
+    height: 1000px;
+    color: white;
+    /*text-align: center;
+    margin-bottom: 60px;*/
+}}
+.pfp{
+margin-left: auto;
+margin-right: auto;
+}
+.something{
+    text-align: center;
+    margin-top: 180px;
+    /*font-size: 20px;*/
+    }
+.h1{
+    font-size: 100px;
+    color: yellow;
+}
+.col-12{
+    font-size: 40px;
+}
+.Info{
+    font-size:40px;
+}
+.studentlife{
+    text-align: center;
+}
+footer{
+    background-color: grey;
+}
