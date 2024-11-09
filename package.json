@@ -1,6 +1,6 @@
 {
-  "name": "project-starter",
-  "author": "Abdulmalek Al-Gahmi",
+  "name": "UA-high",
+  "author": "Myah Weidman",
   "private": true,
   "version": "0.0.0",
   "license": "MIT",
@@ -30,3 +30,4 @@
     "bootstrap-icons": "^1.11.1"
   }
 }
+
